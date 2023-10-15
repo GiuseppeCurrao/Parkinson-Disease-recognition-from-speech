@@ -55,3 +55,6 @@ To conduct our analysis, we will utilize the Italian Parkinson’s Voice and Spe
 dataset. The dataset is accessible after logging in through IEEE. Before the creation of the dataset used for this study, a preliminary step of data preprocessing was made to organize in a better way the files.
 The comparative analysis of our proposed ML techniques will provide valuable
 insights into the efficacy of different approaches for early-stage PD detection.
+
+#N.B.
+The dataset used is not present in this repository, but can be downloaded freely previous access.

@@ -1,5 +1,6 @@
 # Parkinson-Disease-recognition-from-speech
 
+
 Parkinson’s Disease (PD) is a progressive neurodegenerative disorder that primarily
 affects the motor system, resulting in tremors, bradykinesia, rigidity, and postural instability. PD is caused by the degeneration of dopaminergic neurons in the
 substantia nigra, leading to a deficiency of dopamine in the brain. While the exact etiology of PD remains elusive, multiple factors such as genetics, environmental
